@@ -2,7 +2,7 @@
 
 Code for the figures of
 
-> A. C. Fassoni. *Fitness is asymptotically irrelevant under uniform competition in phenotype-structured populations.* Preprint, 2026. arXiv: *to be added*.
+> A. C. Fassoni. *Fitness is asymptotically irrelevant under uniform competition in phenotype-structured populations.* Preprint, 2026. arXiv:2609.32585.
 
 This paper proves the continuum results stated in the review *Stochastic gradient descent on the epigenetic landscape* (code in [sgd-epigenetic-landscape-review](https://github.com/arturfassoni/sgd-epigenetic-landscape-review)).
 
